@@ -1,0 +1,306 @@
+Package: MisakaHelper
+Version: 1.9-9
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: Misaka
+Depends: mobilesubstrate
+Conflicts: MisakaHelper
+Replaces: MisakaHelper
+Provides: MisakaHelper
+Filename: debs/rootless/MisakaHelper_1.9-9_iphoneos-arm64.deb
+Size: 11420412
+MD5sum: c06ad1b4fea76aae9c255642b3e9328e
+SHA1: b39957a93f45ef75cba5cfaf2e566075eba15d2e
+SHA256: 621d46e73411b1e86b05e9d29178be76f3db1f40ba485a68a9cc2bcdb6a8bdfb
+Section: 微信插件
+Priority: optional
+Description: MisakaHelper
+Author: Misaka
+Name: MisakaHelper
+
+Package: MisakaHelper
+Version: 1.9-9
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: Misaka
+Depends: mobilesubstrate
+Conflicts: MisakaHelper
+Replaces: MisakaHelper
+Provides: MisakaHelper
+Filename: debs/rootful/MisakaHelper_1.9-9_iphoneos-arm.deb
+Size: 11615940
+MD5sum: 68adca228fb8fd43d2562a9fef604de3
+SHA1: e80eda29a70169367a3802f3ebf47c962e31058e
+SHA256: 3df78220118ef0beeaa88d53107e0aa21fe7254854f30ddbc7fdd6059db8008e
+Section: 微信插件
+Priority: optional
+Description: MisakaHelper
+Author: Misaka
+Name: MisakaHelper
+
+Package: com.25mao.MiYou
+Version: 3.7-8
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/rootful/com.25mao.MiYou_3.7-8_iphoneos-arm.deb
+Size: 9850300
+MD5sum: 56e99cd55a56bd3cbf3680c5d050aee3
+SHA1: cd5d4c9a08c17ce56b5dbce83126cdd239bbeb96
+SHA256: b1f946fdf9510bdff33f238a4aa13954e6937d021fa2fa3bd53ba65c9879b8a7
+Section: 微信插件
+Priority: optional
+Description: 微信助手
+Author: Mao
+Name: 微信助手
+
+Package: com.25mao.miyou.rootless
+Version: 3.7-8
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/rootless/com.25mao.miyou.rootless_3.7-8_iphoneos-arm64.deb
+Size: 9851004
+MD5sum: bcd0417800f342b14ff048b15f45ac83
+SHA1: a82ba337ce9d9bbd359ceaa60161fc6d847f8ccf
+SHA256: 9c29c0b576eabc4c19c030b9582e51c1b401a99c0a7da63eeab53d8931aae63e
+Section: 微信插件
+Priority: optional
+Description: 微信助手
+Author: Mao
+Name: 微信助手
+
+Package: com.HBWechatHelper.ailun
+Version: 1.7.2
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/rootless/com.HBWechatHelper.ailun_1.7.2_iphoneos-arm64.deb
+Size: 9512524
+MD5sum: 39c263542f5f56f09d0c9423207ab027
+SHA1: d048ef672a8e68a70593a43fc2047e5ac900e910
+SHA256: 24085020af531ad54f1f354378600532baf80fe4eeaecee54f679d97007d2502
+Section: 微信插件
+Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Name: 黄白助手(微信插件)-Rootless
+
+Package: com.HBWechatHelper.ailun
+Version: 1.7.2
+Architecture: iphoneos-arm
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/rootful/com.HBWechatHelper.ailun_1.7.2_iphoneos-arm.deb
+Size: 9511344
+MD5sum: cb324ecf354a805873cca855ed4b9ce9
+SHA1: 38f15e3c5f91996f5641c35a82698355af6c9f9c
+SHA256: c4d01c7e43b55cb6dcd95f328e2a22b242c8f0369cb175efb137b1779cb68957
+Section: 微信插件
+Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Name: 黄白助手(微信插件)
+
+Package: com.curtin.pkc
+Version: 0.5-1
+Architecture: iphoneos-arm
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: debs/rootful/com.curtin.pkc_0.5-1_iphoneos-arm.deb
+Size: 386196
+MD5sum: b634880b15842368a164fbf2e2258551
+SHA1: 481b3cb4ae98b01c42413cec0a205b82f2aec1da
+SHA256: c35b05a9823a4140f79b53dc2b5d431651837e694968bdd1028d4e57234a90d8
+Section: 微信插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC
+
+Package: com.curtin.pkc.rootless
+Version: 0.5-1
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: debs/rootless/com.curtin.pkc.rootless_0.5-1_iphoneos-arm64.deb
+Size: 386324
+MD5sum: 4e2873addcad18a9e0d1fad32222a3cd
+SHA1: e1a9a1427e582fe723bb0ee88467a9386c7a9f50
+SHA256: c6df537673dfd8d4f0e88f3f3568a3fb5c9fec03d981ed4a44f7de1f5c36ccbb
+Section: 微信插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根
+
+Package: com.dumpapp.wechat
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: WeChat
+Installed-Size: 24240
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: debs/rootful/com.dumpapp.wechat_2.0.1_iphoneos-arm.deb
+Size: 9405556
+MD5sum: bfbd94cfc2bbecdb280e3f20808bd0de
+SHA1: 395dc550d63ac3e0a5f4c846db90b47d944e0498
+SHA256: e00a518a7f58b062b482ff7ac891da39b6518a376531ea649e9fc65df2dcf020
+Section: 微信插件
+Description: 锤子助手插件
+Author: DumpApp
+Name: 锤子助手
+
+Package: com.dumpapp.wechat-rootless
+Version: 2.0.1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 24000
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: debs/rootless/com.dumpapp.wechat-rootless_2.0.1_iphoneos-arm64.deb
+Size: 9336764
+MD5sum: 79dcec89d1df8f21f285a8ee10374ded
+SHA1: 7b380aa1f86b1d67c9871d2f6e85fe0ccc7c201a
+SHA256: d2baf879c6d3364661fd54c402590ba36b01f81ece9d56e83a438a612167f598
+Section: 微信插件
+Description: 锤子助手插件
+Author: DumpApp
+Name: 锤子助手-Rootless
+
+Package: com.langkhach.nicegram
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: LK
+Installed-Size: 168	.dragon/_
+Depends: mobilesubstrate
+Filename: debs/rootless/com.langkhach.nicegram_0.0.1_iphoneos-arm64.deb
+Size: 11724
+MD5sum: 25df252ccb4dcc32a4bde6fc33bd56f8
+SHA1: ec0efbbc27c9f997e48bcd40976a1005689707b7
+SHA256: 11b76321498bb98553803d6d2bd092b448c5b8f967d0998b25e548e968952fba
+Section: Tweaks
+Description: A cool MobileSubstrate Tweak made By TG@hiepkimcdtk55
+Author: LK
+Name: NiceGram
+
+Package: com.netskao.appdata
+Version: 1.4.1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 14408
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/rootless/com.netskao.appdata_1.4.1_iphoneos-arm64.deb
+Size: 4645824
+MD5sum: 3a5eac1b5ee8a01c3ef28b46f4e191f2
+SHA1: 7168cc92fdbedd89fe4fa2c0319be784700f26fb
+SHA256: 974c7302fd909339da1d8a13e471755fc9b0af0736eb169b00d61c3b10fe2cd2
+Section: Tweaks
+Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标应用数据快捷工具，此版本由站长完整汉化并修改优化。修改优化:增加简单版降级应用，增加可选向下滑动唤出，增加查看应用加密状态，增加面板可选去除面板分割线，增加长按面板图标以安全模式启动，修改原版卸载应用为真实卸载不保留数据，修改原版清除缓存后未同步刷新总数据显示问题，修复原版更多信息页面长按复制的信息错误问题，修改原版重置数据为包括重置程序组内文件夹数据，修改原版重置数据栏数据大小显示为包括程序组内文件夹数据，修改原版重置数据后未同步刷新缓存数据显示和权限个数显示问题，修改原版在非AppStore中下载的应用唤出时无法使用重置数据/重置权限/卸载应用(修改后仅在系统应用上禁止)
+Author: Fouad Raheb
+Name: AppData
+
+Package: com.netskao.dumpdecrypter
+Version: 1.4-4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 4324
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/rootless/com.netskao.dumpdecrypter_1.4-4_iphoneos-arm64.deb
+Size: 1294820
+MD5sum: baa65b1293855097c06466f0afed5e7e
+SHA1: cc99085ccb88b2c91e4b99fe4ee6c9b2d7bddcaf
+SHA256: 4f59f5822848fe1e8feaac5c15ae81d1dfcd9c8e01dc71da35449e3f76f230cd
+Section: Tweaks
+Description: Decrypt iOS Apps and Plugins
+Author: Netskao
+Name: DumpDecrypter
+
+Package: com.netskao.filzacrack
+Version: 1.1-8
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 88
+Depends: firmware (>= 15.0), mobilesubstrate, com.tigisoftware.filza64bit
+Filename: debs/rootless/com.netskao.filzacrack_1.1-8_iphoneos-arm64.deb
+Size: 4972
+MD5sum: 175bfb3c9b4ea5eec67bcb6ab50aba6d
+SHA1: 85184382434ff2ecac7f2b9c9b88076463346c9b
+SHA256: 102551a4bac6022c73ea39fd4ad7b0fcd84c8741fb78610d996769cf8cc3cca9
+Section: Tweaks
+Homepage: https://tigisoftware.com/cydia/
+Description: Filza unlock full functionality, the main program please install in the official source
+Author: Netskao
+Name: Filza Crack
+
+Package: com.netskao.pulloverpro
+Version: 2.1.6
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 2440
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.c1d3r.pulloverpro
+Filename: debs/rootless/com.netskao.pulloverpro_2.1.6_iphoneos-arm64.deb
+Size: 696084
+MD5sum: 20166774b1dbae995dec69bf96f6a20e
+SHA1: 8f53adfc138fcb3b8f2aa2b2c99f1e0f144592b6
+SHA256: 91df4468ba6e54b2cf415ec393f10140b1ec5dfcf73269d540d3db9234b59a2e
+Section: Tweaks
+Description: A better way to multitask! Fix support for iOS15+
+Author: c1d3r
+Name: PullOver Pro
+
+Package: me.jjolano.shadow
+Version: 3.7.6
+Architecture: iphoneos-arm64
+Maintainer: jjolano
+Installed-Size: 1076
+Pre-Depends: dpkg
+Depends: firmware (>= 8.0), com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit, me.jjolano.hkmodule.substrate, me.jjolano.fmwk.rootbridge
+Recommends: mobilesubstrate, preferenceloader, me.jjolano.hkmodule.fishhook
+Suggests: com.ps.injectionfoundation
+Conflicts: me.jjolano.shadow.beta, me.jjolano.shadow.legacy
+Replaces: me.jjolano.shadow.beta
+Provides: me.jjolano.shadow.beta
+Filename: debs/rootless/me.jjolano.shadow_3.7.6_iphoneos-arm64.deb
+Size: 101004
+MD5sum: 874794096ac33124d8a3b7f3aae1afed
+SHA1: 625fdaf5b82f2de127012c4cfd4881f21d68e38f
+SHA256: a86d78317ab31e204765f104017ab5383dcd5e7cf1eb68eaa969b23fa83abb4a
+Section: Tweaks
+Description: A modern jailbreak detection bypass.
+Author: jjolano
+Name: Shadow
+
+Package: netskao.wechatpurification
+Version: 4.2-6-END
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 16676
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: debs/rootless/netskao.wechatpurification_4.2-6-END_iphoneos-arm64.deb
+Size: 6274868
+MD5sum: c8f4fa955b4101ba659a5652ddf56be3
+SHA1: b318499ea516d61fc840966caa66f7e1f4a0afc0
+SHA256: 0fd85914d9b86490ebf1f81952f8cae181a3fa1ebcfb1c00bf70918cffe9390b
+Section: 微信插件
+Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
+Author: Netskao
+Name: 微信净化END
+
+Package: netskao.wechatpurification
+Version: 4.2-6-END
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 16656
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: debs/rootful/netskao.wechatpurification_4.2-6-END_iphoneos-arm.deb
+Size: 6274040
+MD5sum: 074b0cd5545649cd2f282a96452c06fa
+SHA1: 96ed8a38ff0aedd3557c572470391f2ff91fd6d2
+SHA256: ed767594dbc3c49bd5ca78930bc49f38529b4b107147c02ed7f1b9b1c1241fa7
+Section: 微信插件
+Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
+Author: Netskao
+Name: 微信净化END
+
