@@ -101,37 +101,37 @@ Author: HuangBai <QQ:1343309363@qq.com>
 Name: 黄白助手(微信插件)
 
 Package: com.curtin.pkc
-Version: 0.5-1
+Version: 0.5-2
 Architecture: iphoneos-arm
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
-Filename: debs/rootful/com.curtin.pkc_0.5-1_iphoneos-arm.deb
-Size: 386196
-MD5sum: b634880b15842368a164fbf2e2258551
-SHA1: 481b3cb4ae98b01c42413cec0a205b82f2aec1da
-SHA256: c35b05a9823a4140f79b53dc2b5d431651837e694968bdd1028d4e57234a90d8
+Filename: debs/rootful/com.curtin.pkc_0.5-2_iphoneos-arm.deb
+Size: 403288
+MD5sum: 85e68ef8edc5880924ea636b081d2300
+SHA1: b725c35c69158f844e0e921cce346e804b115994
+SHA256: 4ff90a1e35918bff6042a79987524ec26f583e9dff0a95baed5b5f17c543bf03
 Section: 微信插件
 Priority: optional
 Homepage: https://github.com/curtinlv
-Description: 群管理Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Description: 群管理Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、自动通过好友请求、自动互删好友等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
 Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
 Name: PKC
 
 Package: com.curtin.pkc.rootless
-Version: 0.5-1
+Version: 0.5-2
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
-Filename: debs/rootless/com.curtin.pkc.rootless_0.5-1_iphoneos-arm64.deb
-Size: 386324
-MD5sum: 4e2873addcad18a9e0d1fad32222a3cd
-SHA1: e1a9a1427e582fe723bb0ee88467a9386c7a9f50
-SHA256: c6df537673dfd8d4f0e88f3f3568a3fb5c9fec03d981ed4a44f7de1f5c36ccbb
+Filename: debs/rootless/com.curtin.pkc.rootless_0.5-2_iphoneos-arm64.deb
+Size: 403416
+MD5sum: 485d345ed627871b274f31964008f806
+SHA1: a3b187805499658968086a9b9b6d12a58dc69503
+SHA256: 5e7a54ca37b2d40a510ddf2923c4248a87411d8aa2d5f06ffb5ddb8500ca7ac2
 Section: 微信插件
 Priority: optional
 Homepage: https://github.com/curtinlv
-Description: 群管理Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Description: 群管理Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、自动通过好友请求、自动互删好友等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
 Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
 Name: PKC_无根
