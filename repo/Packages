@@ -202,6 +202,23 @@ Description: 锤子助手插件
 Author: DumpApp
 Name: 锤子助手-Rootless
 
+Package: com.guashen.wechathelper
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: debs/rootless/com.guashen.wechathelper_1.0-2_iphoneos-arm64.deb
+Size: 69596
+MD5sum: 375fc890430b1c7d4ea4978c60e415c7
+SHA1: 206c1ece5234b9e682ec1da2d333e98434eea72a
+SHA256: d104c477cf067a98175d47283ba912700ff6f60c10f5c6ab97589c1f729e8b88
+Section: 微信插件
+Priority: optional
+Description: 抢红包，后台推送功能！
+Author: 挂神
+Icon: file:///Applications/Cydia.app/Sections/Messaging.png
+Name: 微信挂神助手
+Sponsor: Sileo中文源™ <http://apt.nuosike.cn/>
+
 Package: com.langkhach.nicegram
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -320,22 +337,6 @@ Name: PullOver Pro
 
 Package: com.squidforce.copyvault
 Version: 1.2.7
-Architecture: iphoneos-arm64e
-Maintainer: SquidForce
-Installed-Size: 10452
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/roothide/com.squidforce.copyvault_1.2.7-1_iphoneos-arm64e.deb
-Size: 2891016
-MD5sum: e6ad999e7b0505c95f28b3f3d0d1cfc2
-SHA1: e0f759f0ecb2afd38dc5b0138d3f7eedf77f9bbb
-SHA256: fdc7a657c5309945d9337ed926103751f0dd0e2093bf78ee725e7f87b3e8636b
-Section: Tweaks
-Description: Your Copy Vault, Your Pasteboard
-Author: SquidForce
-Name: CopyVault
-
-Package: com.squidforce.copyvault
-Version: 1.2.7
 Architecture: iphoneos-arm64
 Maintainer: SquidForce
 Installed-Size: 10596
@@ -345,6 +346,22 @@ Size: 2929604
 MD5sum: bee6543ee5865939e43069a9c5fa9dd1
 SHA1: 20c7b1d22c85ebb50b5a9d3dd9cde4221e351bd9
 SHA256: 822899fccdee77f1f96228dedfafc3a64df6da589ca4ae8f50554975792689ed
+Section: Tweaks
+Description: Your Copy Vault, Your Pasteboard
+Author: SquidForce
+Name: CopyVault
+
+Package: com.squidforce.copyvault
+Version: 1.2.7
+Architecture: iphoneos-arm64e
+Maintainer: SquidForce
+Installed-Size: 10452
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/roothide/com.squidforce.copyvault_1.2.7-1_iphoneos-arm64e.deb
+Size: 2891016
+MD5sum: e6ad999e7b0505c95f28b3f3d0d1cfc2
+SHA1: e0f759f0ecb2afd38dc5b0138d3f7eedf77f9bbb
+SHA256: fdc7a657c5309945d9337ed926103751f0dd0e2093bf78ee725e7f87b3e8636b
 Section: Tweaks
 Description: Your Copy Vault, Your Pasteboard
 Author: SquidForce
