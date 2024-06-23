@@ -1,5 +1,5 @@
 Package: MisakaHelper
-Version: 1.9-9
+Version: 2.0-0
 Architecture: iphoneos-arm64
 Essential: no
 Maintainer: Misaka
@@ -7,11 +7,11 @@ Depends: mobilesubstrate
 Conflicts: MisakaHelper
 Replaces: MisakaHelper
 Provides: MisakaHelper
-Filename: debs/rootless/MisakaHelper_1.9-9_iphoneos-arm64.deb
-Size: 11420412
-MD5sum: c06ad1b4fea76aae9c255642b3e9328e
-SHA1: b39957a93f45ef75cba5cfaf2e566075eba15d2e
-SHA256: 621d46e73411b1e86b05e9d29178be76f3db1f40ba485a68a9cc2bcdb6a8bdfb
+Filename: debs/rootless/MisakaHelper_2.0-0_iphoneos-arm64.deb
+Size: 11816572
+MD5sum: 95e913b348e9037279cec8fdd53a5d17
+SHA1: dfde3286f613b7f97b587007701bb8f8192bb6af
+SHA256: cf54a243b561ecca641278452194ac042fb5bd976f258918dd85605f5b2fe1bb
 Section: 微信插件
 Priority: optional
 Description: MisakaHelper
@@ -19,7 +19,7 @@ Author: Misaka
 Name: MisakaHelper
 
 Package: MisakaHelper
-Version: 1.9-9
+Version: 2.0-0
 Architecture: iphoneos-arm
 Essential: no
 Maintainer: Misaka
@@ -27,11 +27,11 @@ Depends: mobilesubstrate
 Conflicts: MisakaHelper
 Replaces: MisakaHelper
 Provides: MisakaHelper
-Filename: debs/rootful/MisakaHelper_1.9-9_iphoneos-arm.deb
-Size: 11615940
-MD5sum: 68adca228fb8fd43d2562a9fef604de3
-SHA1: e80eda29a70169367a3802f3ebf47c962e31058e
-SHA256: 3df78220118ef0beeaa88d53107e0aa21fe7254854f30ddbc7fdd6059db8008e
+Filename: debs/rootful/MisakaHelper_2.0-0_iphoneos-arm.deb
+Size: 12037288
+MD5sum: e0dec2579d4d66f0e203c311f28adaa2
+SHA1: f6b5b7180e28a43bbd9a2ecb9c0b6c32e32b667e
+SHA256: 2c55799a836b5ea6a18113d476a5dc73599e38f87f64afc4ed06a2e996986a46
 Section: 微信插件
 Priority: optional
 Description: MisakaHelper
@@ -136,6 +136,22 @@ Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
 Name: PKC_无根
 
+Package: com.dl.lyric-rootless
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: Mika
+Installed-Size: 844
+Depends: mobilesubstrate
+Filename: debs/rootless/com.dl.lyric-rootless_3.0_iphoneos-arm64.deb
+Size: 125506
+MD5sum: a68f871d421c2ec4105bd6576749533c
+SHA1: 050c1b6e181cac6c5ee131e46c861c161a6a127d
+SHA256: 8f3d8e9b0e5fff5736db1d39ae4c532f1b38275989bb7e67d6e1bc149c2ce909
+Section: Tweaks
+Description: 适配任何带锁屏歌词的应用！
+Author: Mika
+Name: 桌面歌词
+
 Package: com.dumpapp.wechat
 Version: 2.0.1
 Architecture: iphoneos-arm
@@ -183,6 +199,40 @@ Section: Tweaks
 Description: A cool MobileSubstrate Tweak made By TG@hiepkimcdtk55
 Author: LK
 Name: NiceGram
+
+Package: com.lclrc.hammerit
+Version: 1.7.1
+Architecture: iphoneos-arm64
+Maintainer: lclrc(SquidForce)
+Installed-Size: 3808
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
+Filename: debs/rootless/com.lclrc.hammerit_1.7.1_iphoneos-arm64.deb
+Size: 977970
+MD5sum: d70699b93e4c1d86aa21a963427ca3cd
+SHA1: 575137e624ea6d038c4ab4dcc7da9a01ee417fc6
+SHA256: 541973ff6c9099deae095555627ee2d6c04d405e39ffff5e75a9751d22636cc2
+Section: Tweaks
+Description: Control your text or translate as you wish.
+Author: lclrc(SquidForce)
+Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
+Name: Hammer It
+
+Package: com.lclrc.hammerit
+Version: 1.7.1
+Architecture: iphoneos-arm
+Maintainer: lclrc(SquidForce)
+Installed-Size: 3840
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
+Filename: debs/rootful/com.lclrc.hammerit_1.7.1_iphoneos-arm.deb
+Size: 986814
+MD5sum: 54227ed6d73116e44e0ee7a251198fa6
+SHA1: a34d0fbc194c0fd267728b9707b2ec66643b9435
+SHA256: f0423350bc53c1595ffebc79f3c87ca39608f1e993d8b024d340a74bd599b64f
+Section: Tweaks
+Description: Control your text or translate as you wish.
+Author: lclrc(SquidForce)
+Icon: file:///Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
+Name: Hammer It
 
 Package: com.netskao.appdata
 Version: 1.4.1
@@ -250,27 +300,69 @@ Description: A better way to multitask! Fix support for iOS15+
 Author: c1d3r
 Name: PullOver Pro
 
-Package: me.jjolano.shadow
-Version: 3.7.6
-Architecture: iphoneos-arm64
-Maintainer: jjolano
-Installed-Size: 1076
-Pre-Depends: dpkg
-Depends: firmware (>= 8.0), com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit, me.jjolano.hkmodule.substrate, me.jjolano.fmwk.rootbridge
-Recommends: mobilesubstrate, preferenceloader, me.jjolano.hkmodule.fishhook
-Suggests: com.ps.injectionfoundation
-Conflicts: me.jjolano.shadow.beta, me.jjolano.shadow.legacy
-Replaces: me.jjolano.shadow.beta
-Provides: me.jjolano.shadow.beta
-Filename: debs/rootless/me.jjolano.shadow_3.7.6_iphoneos-arm64.deb
-Size: 101004
-MD5sum: 874794096ac33124d8a3b7f3aae1afed
-SHA1: 625fdaf5b82f2de127012c4cfd4881f21d68e38f
-SHA256: a86d78317ab31e204765f104017ab5383dcd5e7cf1eb68eaa969b23fa83abb4a
+Package: com.squidforce.copyvault
+Version: 1.2.7
+Architecture: iphoneos-arm64e
+Maintainer: SquidForce
+Installed-Size: 10452
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/roothide/com.squidforce.copyvault_1.2.7-1_iphoneos-arm64e.deb
+Size: 2891016
+MD5sum: e6ad999e7b0505c95f28b3f3d0d1cfc2
+SHA1: e0f759f0ecb2afd38dc5b0138d3f7eedf77f9bbb
+SHA256: fdc7a657c5309945d9337ed926103751f0dd0e2093bf78ee725e7f87b3e8636b
 Section: Tweaks
-Description: A modern jailbreak detection bypass.
-Author: jjolano
-Name: Shadow
+Description: Your Copy Vault, Your Pasteboard
+Author: SquidForce
+Name: CopyVault
+
+Package: com.squidforce.copyvault
+Version: 1.2.7
+Architecture: iphoneos-arm64
+Maintainer: SquidForce
+Installed-Size: 10596
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/rootless/com.squidforce.copyvault_1.2.7-1_iphoneos-arm64.deb
+Size: 2929604
+MD5sum: bee6543ee5865939e43069a9c5fa9dd1
+SHA1: 20c7b1d22c85ebb50b5a9d3dd9cde4221e351bd9
+SHA256: 822899fccdee77f1f96228dedfafc3a64df6da589ca4ae8f50554975792689ed
+Section: Tweaks
+Description: Your Copy Vault, Your Pasteboard
+Author: SquidForce
+Name: CopyVault
+
+Package: com.squidforce.copyvault
+Version: 1.2.7
+Architecture: iphoneos-arm
+Maintainer: SquidForce
+Installed-Size: 10612
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/rootful/com.squidforce.copyvault_1.2.7-1_iphoneos-arm.deb
+Size: 2941540
+MD5sum: 047fd1b25ff61f08fbae35cc8a727bc8
+SHA1: 181be13435abed6268464b3d156ebe198199dd72
+SHA256: fd9a29614b3efea741ac130fc10ef932c987b40189f64a3b5d2a69806bac3c80
+Section: Tweaks
+Description: Your Copy Vault, Your Pasteboard
+Author: SquidForce
+Name: CopyVault
+
+Package: com.sunshinesong.dynamic-notifier
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 580
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/rootless/com.sunshinesong.dynamic-notifier_1.0.0_iphoneos-arm64.deb
+Size: 129802
+MD5sum: d93a6bfad4d4cdcf85f156e8d6ceef86
+SHA1: 2fb7bfaf31a13d0aa9a6af48a61236f975e71eb9
+SHA256: 878ae48c04106c3d4d5625e88b55bc81a8de928453b654204e5a1d92b97bc5ef
+Section: Tweaks
+Description: 上岛，不必太复杂。仅仅支持iOS16+。
+Author: sunshinesong
+Name: dynamic-notifier
 
 Package: netskao.wechatpurification
 Version: 4.2-6-END
