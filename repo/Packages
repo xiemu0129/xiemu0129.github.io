@@ -1,5 +1,5 @@
 Package: MisakaHelper
-Version: 2.0-0
+Version: 2.0-1
 Architecture: iphoneos-arm64
 Essential: no
 Maintainer: Misaka
@@ -7,11 +7,11 @@ Depends: mobilesubstrate
 Conflicts: MisakaHelper
 Replaces: MisakaHelper
 Provides: MisakaHelper
-Filename: debs/rootless/MisakaHelper_2.0-0_iphoneos-arm64.deb
-Size: 11816572
-MD5sum: 95e913b348e9037279cec8fdd53a5d17
-SHA1: dfde3286f613b7f97b587007701bb8f8192bb6af
-SHA256: cf54a243b561ecca641278452194ac042fb5bd976f258918dd85605f5b2fe1bb
+Filename: debs/rootless/MisakaHelper_2.0-1_iphoneos-arm64.deb
+Size: 11946852
+MD5sum: f219a03699d771e89f811fc282108e40
+SHA1: 3b482cfd2ea33f22d8047979119fad999fffb709
+SHA256: d29912851a3ceb5a75ccc6a23ea661d46f3fc43393e13edddcbbd4ab9119752c
 Section: 微信插件
 Priority: optional
 Description: MisakaHelper
@@ -19,7 +19,7 @@ Author: Misaka
 Name: MisakaHelper
 
 Package: MisakaHelper
-Version: 2.0-0
+Version: 2.0-1
 Architecture: iphoneos-arm
 Essential: no
 Maintainer: Misaka
@@ -27,11 +27,11 @@ Depends: mobilesubstrate
 Conflicts: MisakaHelper
 Replaces: MisakaHelper
 Provides: MisakaHelper
-Filename: debs/rootful/MisakaHelper_2.0-0_iphoneos-arm.deb
-Size: 12037288
-MD5sum: e0dec2579d4d66f0e203c311f28adaa2
-SHA1: f6b5b7180e28a43bbd9a2ecb9c0b6c32e32b667e
-SHA256: 2c55799a836b5ea6a18113d476a5dc73599e38f87f64afc4ed06a2e996986a46
+Filename: debs/rootful/MisakaHelper_2.0-1_iphoneos-arm.deb
+Size: 12177768
+MD5sum: 7b78f87e5e6b0e24afe6754020144f69
+SHA1: dfbeb827a6d75ccf01a9b5286103800fae81c3e7
+SHA256: b31693acfe67a0991125bf2b071bf7035d3012d4ec1bb71a7186f36f93830977
 Section: 微信插件
 Priority: optional
 Description: MisakaHelper
@@ -336,48 +336,48 @@ Author: c1d3r
 Name: PullOver Pro
 
 Package: com.squidforce.copyvault
-Version: 1.2.7
+Version: 1.2.8
 Architecture: iphoneos-arm64
 Maintainer: SquidForce
-Installed-Size: 10596
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/rootless/com.squidforce.copyvault_1.2.7-1_iphoneos-arm64.deb
-Size: 2929604
-MD5sum: bee6543ee5865939e43069a9c5fa9dd1
-SHA1: 20c7b1d22c85ebb50b5a9d3dd9cde4221e351bd9
-SHA256: 822899fccdee77f1f96228dedfafc3a64df6da589ca4ae8f50554975792689ed
+Installed-Size: 10820
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/rootless/com.squidforce.copyvault_1.2.8-1_iphoneos-arm64.deb
+Size: 2988166
+MD5sum: 194a1c481069d4ba6c71a95a87ed30f3
+SHA1: 6ac18c6674e66e086391c02d1a470391bd3743ec
+SHA256: 896118390d51f3916031cddf8a95b0225c5dfc7d820a799aeadf30d89246c963
 Section: Tweaks
 Description: Your Copy Vault, Your Pasteboard
 Author: SquidForce
 Name: CopyVault
 
 Package: com.squidforce.copyvault
-Version: 1.2.7
+Version: 1.2.8
 Architecture: iphoneos-arm64e
 Maintainer: SquidForce
-Installed-Size: 10452
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/roothide/com.squidforce.copyvault_1.2.7-1_iphoneos-arm64e.deb
-Size: 2891016
-MD5sum: e6ad999e7b0505c95f28b3f3d0d1cfc2
-SHA1: e0f759f0ecb2afd38dc5b0138d3f7eedf77f9bbb
-SHA256: fdc7a657c5309945d9337ed926103751f0dd0e2093bf78ee725e7f87b3e8636b
+Installed-Size: 10708
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/roothide/com.squidforce.copyvault_1.2.8-1_iphoneos-arm64e.deb
+Size: 2958350
+MD5sum: 863d1546f89f2177e31c9c3caa4fc293
+SHA1: 35332e8474dcdc420ec45b2c6a16bbd49cff6cc4
+SHA256: 927108a4cc40b0124b7f6329c05c715a76baf8be1108e37a9c9376ea441987f2
 Section: Tweaks
 Description: Your Copy Vault, Your Pasteboard
 Author: SquidForce
 Name: CopyVault
 
 Package: com.squidforce.copyvault
-Version: 1.2.7
+Version: 1.2.8
 Architecture: iphoneos-arm
 Maintainer: SquidForce
-Installed-Size: 10612
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/rootful/com.squidforce.copyvault_1.2.7-1_iphoneos-arm.deb
-Size: 2941540
-MD5sum: 047fd1b25ff61f08fbae35cc8a727bc8
-SHA1: 181be13435abed6268464b3d156ebe198199dd72
-SHA256: fd9a29614b3efea741ac130fc10ef932c987b40189f64a3b5d2a69806bac3c80
+Installed-Size: 10908
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/rootful/com.squidforce.copyvault_1.2.8-1_iphoneos-arm.deb
+Size: 3010524
+MD5sum: 1ea7114cadc63d6066e568bac734c21c
+SHA1: 63d4ee069b5aaba0d00a5d7666acdd3e238bb943
+SHA256: 966e50180b6c280dfa75396acf2333ae40b74063b8baff6ce3308500bb662115
 Section: Tweaks
 Description: Your Copy Vault, Your Pasteboard
 Author: SquidForce
